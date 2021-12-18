@@ -1,0 +1,23 @@
+Welcome to YTMSDL (Youtube Music Downloader)
+
+Make sure that you've installed the dependencies.
+Here's the dependencies :
+ffmpeg
+python (pip youtube-dl)
+figlet
+
+>>> Quickstart :
+1.	Tap "Share" button on Youtube or Youtube Music app then tap "Copy to clipboard".
+2.	Type the considered formats below alongside with space, then paste the link, press ENTER to start downloading.
+
+Formats available :
+
+m4a	(Recomended)
+mp3	(Best for compability)
+flac	(Not recomended)
+wav	(Best for audio editing)
+ogg	(Best for ringtone)
+aac	(Optional)
+wma	(Optional)
+
+DXFTek, Irfan Togashi.

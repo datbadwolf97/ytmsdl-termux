@@ -8,7 +8,7 @@ echo "$file1"
 
 echo "Enter the format and link : "
 read var1 var2
-youtube-dl -o '/data/data/com.termux/files/home/storage/shared/YTMSDL/%(title)s.%(ext)s​' --extract-audio --audio-format $var1 $var2
+youtube-dl -o '/sdcard/YTMSDL/%(title)s.%(ext)s​' --extract-audio --audio-format $var1 $var2
 
 echo "Download Complete"
 
